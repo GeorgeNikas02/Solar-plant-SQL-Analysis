@@ -91,14 +91,9 @@ VALUES
 INSERT INTO maintenance
 (maintenance_id, plant_id, maintenance_date, downtime_hours, maintenance_type)
 VALUES
-(10, 10, '2025-06-02', 6.00, 'Preventive'),
-(11, 1,  '2025-06-18', 3.50, 'Inspection'),
-(12, 2,  '2025-07-04', 9.25, 'Corrective'),
-(13, 3,  '2025-07-22', 5.75, 'Preventive'),
-(14, 4,  '2025-08-06', 11.00, 'Corrective'),
-(15, 5,  '2025-08-24', 4.25, 'Inspection'),
-(16, 6,  '2025-09-10', 7.50, 'Preventive'),
-(17, 7,  '2025-09-28', 5.00, 'Inspection'),
-(18, 8,  '2025-10-11', 13.50, 'Corrective'),
-(19, 9,  '2025-11-03', 6.25, 'Preventive'),
+(10, 10, '2025-06-02', 6.00, 'Preventive'),(11, 1,  '2025-06-18', 3.50, 'Inspection'),
+(12, 2,  '2025-07-04', 9.25, 'Corrective'),(13, 3,  '2025-07-22', 5.75, 'Preventive'),
+(14, 4,  '2025-08-06', 11.00, 'Corrective'),(15, 5,  '2025-08-24', 4.25, 'Inspection'),
+(16, 6,  '2025-09-10', 7.50, 'Preventive'),(17, 7,  '2025-09-28', 5.00, 'Inspection'),
+(18, 8,  '2025-10-11', 13.50, 'Corrective'),(19, 9,  '2025-11-03', 6.25, 'Preventive'),
 (20, 10, '2025-11-19', 8.00, 'Corrective');
