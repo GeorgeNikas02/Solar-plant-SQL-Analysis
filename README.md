@@ -104,5 +104,3 @@ This project demonstrates practical use of:
 
 ## Purpose
 This project was created as a practical SQL portfolio project to develop and demonstrate data analysis skills using a realistic energy-sector dataset.
-
-This project was created as a practical SQL portfolio project to develop and demonstrate data analysis skills using a realistic energy-sector dataset.
